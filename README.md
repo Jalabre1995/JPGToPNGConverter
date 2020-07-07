@@ -1,6 +1,6 @@
 # JPGToPNGConverter
 
-The purpose of this project is to takke JPG images and convert them into PNg iamges. Take any image and convert it into a PNG image. In my folder you will see a Pokidex folder conatining cool Pokemon. 
+The purpose of this project is to takke JPG images and convert them into PNg iamges. In my folder you will see a Pokidex folder conatining cool Pokemon. 
 
 # Dependencies
 Before you run the program, make sure you have:
